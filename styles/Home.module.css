@@ -1,3 +1,16 @@
+.switzer {
+  font-family: "Switzer";
+  font-weight: 600;
+}
+
+.linkUnderline {
+  font-family: "Switzer";
+  font-weight: 400;
+  text-decoration: underline;
+  display: block;
+  margin: 1em 0 1em 0;
+}
+
 .main {
   display: flex;
   flex-direction: column;
